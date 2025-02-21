@@ -73,3 +73,5 @@ def main():
         st.write(f'La preddiccion para {x_ingresado} es {prediccion_x}')
 if __name__ == '__main__':
     main()
+
+#correr código con streamlit run app.py
